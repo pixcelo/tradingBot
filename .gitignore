@@ -10,3 +10,18 @@
 pyvenv.cfg
 .venv
 pip-selfcheck.json
+
+# jupyter
+.ipynb_checkpoints
+
+# python
+__pycache__
+
+# pytest
+.pytest_cache
+
+# config
+config.json
+
+# logs
+*.log
